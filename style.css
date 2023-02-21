@@ -98,6 +98,7 @@ html {
     display: block;
     border: 1px solid transparent;
     margin: 30px auto;
+    max-width: 100%;
     
 }
 
